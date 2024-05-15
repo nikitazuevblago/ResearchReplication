@@ -1,0 +1,7 @@
+# Python 3.12.3
+
+# Libraries were installed with pip!
+torch==2.3.0
+requests==2.31.0
+pillow==10.3.0
+torchvision==0.18.0
